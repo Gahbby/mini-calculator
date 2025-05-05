@@ -11,7 +11,7 @@
 }
 .buttons>input{
     width: 20%;
-    /* align-content: center; */
+    align-content: center;
 }
 #userInput{
     text-align: right;
