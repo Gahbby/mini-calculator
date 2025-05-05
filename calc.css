@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+}
+#whole{
+    background-image: url(image/imageBack.jpeg);
+    size: 100%;
+    height: 100vh;
+    align-content: center;
+}
+.buttons>input{
+    width: 20%;
+    /* align-content: center; */
+}
+#userInput{
+    text-align: right;
+}
+.buttons{
+    justify-content: space-between;
+}
