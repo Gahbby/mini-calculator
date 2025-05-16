@@ -9,3 +9,7 @@ function evaluateValues(){
     answer.innerHTML = `<h3> Answer = ${result} <h3>`
     userInput.value = result
 }
+function clearInput(){
+    userInput.value = ""
+    answer.innerHTML = ""
+}
